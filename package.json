@@ -1,7 +1,7 @@
 {
-	"name": "abscbn-boilerplate",
+	"name": "armory",
 	"version": "1.0.0",
-	"description": "ABS-CBN HTML Boilerplate is a set of template files - HTML, CSS, JS - and site structure. Follow the guidelines for a standardized coding style.",
+	"description": "",
 	"main": "gulpfile.js",
 	"dependencies": {},
 	"devDependencies": {
